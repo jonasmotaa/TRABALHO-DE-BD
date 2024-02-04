@@ -9,3 +9,5 @@ home.html -> Só uma home para acessar as funcionalidades do site.
 formulario.php -> Página para realizar cadastro de clientes.
 style.css -> Arquivo para manter a estética do site.
 assets -> Pasta com ícones e imagens que utilizei.
+
+Para fazer o progama rodar, é necessário que baixe o XAMPP e o configure corretamente. A pasta E-PARK deve estar no caminho C:\xampp\htdocs para funcionar.
